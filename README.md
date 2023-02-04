@@ -1,2 +1,2 @@
-# IBM-Data Science
+# IBM-Cousera
 GitHub para clases de Data Science
